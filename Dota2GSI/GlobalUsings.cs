@@ -1,0 +1,9 @@
+﻿global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Options;
+global using Discord;
+global using Discord.WebSocket;
+global using Dota2GSI.Configs;
+global using Dota2GSI.Services;
+global using Dota2GSI.Services.Abstractions;
+global using Dota2GSI.Models;
